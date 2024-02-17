@@ -3,8 +3,9 @@
 Esta cuenta fue usada durante mis años de aprendizaje en el Instituto Politécnico Modelo (2017-2023).
 
 Si querés ver los proyectos desarrollados en la actualidad, esta es mi [nueva cuenta](https://github.com/Kaligrametro).
-
-# <{@}> Proyectos <{@}> 
+<h1 align="center">
+<{@}> Proyectos <{@}> 
+</h1>
 
 ## [Nankuruchat](https://github.com/CalifanoFrancisco/Nankuruchat-Backend)
 Clon de discord desarrollado como proyecto final.
@@ -17,9 +18,12 @@ Integrantes y áreas:
 - [Poletti](https://github.com/ianpolettilucero) - Frontend
 - [Califano](https://github.com/CalifanoFrancisco) - Fullstack
 
-# [WFK](https://github.com/CalifanoFrancisco/WFK)
+## [WFK](https://github.com/CalifanoFrancisco/WFK)
 Implementación propia de la [Función de Colapso de Onda](https://github.com/mxgmn/WaveFunctionCollapse/tree/master) con el método de casillas.
 
 ![WFC-example_header](https://github.com/CalifanoFrancisco/CalifanoFrancisco/blob/main/images/WFC-example_header.png)
 
 
+## [BetPoli](https://github.com/CalifanoFrancisco/betpoli-backend)
+Aplicación de apuestas de fútbol.
+Desarrollé mayoritariamente el Backend.
