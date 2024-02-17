@@ -6,7 +6,7 @@ Si querés ver los proyectos desarrollados en la actualidad, esta es mi [nueva c
 
 # <{@}> Proyectos <{@}> 
 
-## Nankuruchat
+## [Nankuruchat](https://github.com/CalifanoFrancisco/Nankuruchat-Backend)
 Clon de discord desarrollado como proyecto final.
 - Mensajería por sockets
 - Capaz de transferir y visualizar imágenes
@@ -17,9 +17,9 @@ Integrantes y áreas:
 - [Poletti](https://github.com/ianpolettilucero) - Frontend
 - [Califano](https://github.com/CalifanoFrancisco) - Fullstack
 
-# WFK
+# [WFK](https://github.com/CalifanoFrancisco/WFK)
 Implementación propia de la [Función de Colapso de Onda](https://github.com/mxgmn/WaveFunctionCollapse/tree/master) con el método de casillas.
 
-Ejemplo de un resolutado:
-![output_image](https://github.com/CalifanoFrancisco/WFK/blob/main/output/CollapsedWave.png)
+![WFC-example_header](https://github.com/CalifanoFrancisco/CalifanoFrancisco/blob/main/images/WFC-example_header.png)
+
 
